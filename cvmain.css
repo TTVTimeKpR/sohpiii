@@ -3240,10 +3240,10 @@ code{
     --focus-color: var(--main-color)
 }
 :is(.theme-light,.theme-dark .theme-light){
-    --background-shading: rgba(252, 252, 252, 0.3);
-    --card-shading: rgba(252, 252, 252, 0.3);
-    --popout-shading: rgba(252, 252, 252, 0.7);
-    --modal-shading: rgba(252, 252, 252, 0.5);
+    --background-shading: rgba(0, 0, 0, 0.3);
+    --card-shading: rgba(0, 0, 0, 0.3);
+    --popout-shading: rgba(0, 0, 0, 0.7);
+    --modal-shading: rgba(0, 0, 0, 0.5);
     --input-shading: rgba(0, 0, 0, 0.3);
     --normal-text: #36363c;
     --muted-text: #75757e
