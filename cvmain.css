@@ -3210,7 +3210,7 @@ code{
     --dnd-color: #982929;
     --streaming-color: #593695;
     --offline-color: #808080;
-    --background-shading-percent: 100%;
+    --background-shading-percent: 25%;
     --background-image: url(https://clearvision.github.io/images/sapphire.jpg);
     --background-position: center;
     --background-size: cover;
